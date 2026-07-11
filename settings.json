@@ -8,7 +8,7 @@
   "server": {
     "ip": "umyeahthisisaserver.aternos.me",
     "port": 37976,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
